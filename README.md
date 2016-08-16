@@ -1,2 +1,0 @@
-# TripPlanner-static
-# TripPlanner-static
